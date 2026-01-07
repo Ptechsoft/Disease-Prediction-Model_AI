@@ -91,4 +91,4 @@ The ML model is trained on a limited but clinically relevant set of diseases, in
 **Disclaimer**
 **This application provides supportive health information only.**
 **It is not a diagnostic tool and does not replace licensed healthcare professionals.**
-**If you experience severe or persistent symptoms, please seek immediate medical care.**
+**If you experience severe or persistent symptoms, please seek immediate medical care.**# Disease-Prediction-Model
