@@ -1,8 +1,6 @@
 # Ignore secrets folder
-.secrets/
+.streamlit/
 
 # Ignore the secrets file
-secrets.toml
+.streamlit/secrets.toml
 
-# Ignore .env file for environment variables
-.env
