@@ -93,4 +93,4 @@ The ML model is trained on a limited but clinically relevant set of diseases, in
 **It is not a diagnostic tool and does not replace licensed healthcare professionals.**
 **If you experience severe or persistent symptoms, please seek immediate medical care.**# Disease-Prediction-Model
 
-Link to test the app : https://disease-prediction-modelai-app.streamlit.app/https://disease-prediction-modelai-app.streamlit.app/
+Link to test the app : https://disease-prediction-modelai-app.streamlit.app/
