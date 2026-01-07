@@ -1,0 +1,8 @@
+disease,care_level,treatment_focus,supportive_care,tests_recommended,referral_needed,emergency_signs
+Malaria,Primary care,Eliminate parasite and control fever,Hydration;Rest;Fever control,Malaria RDT;Blood smear,No,Confusion;Repeated vomiting
+Cholera,Emergency,Correct dehydration,ORS;IV fluids,Stool test,Yes,Shock;Severe dehydration
+Tuberculosis,Specialist care,Long-term infection control,Nutrition support,Sputum test;Chest X-ray,Yes,Hemoptysis
+COVID-19,Primary care to hospital,Symptom relief,Rest;Hydration,PCR;Rapid antigen,Sometimes,Low oxygen
+Hypertension,Primary care,Blood pressure control,Diet;Exercise,BP monitoring,No,Chest pain
+Diabetes Mellitus,Primary care,Glycemic control,Diet;Exercise,Blood glucose,No,Loss of consciousness
+Asthma,Primary care,Airway management,Avoid triggers,Spirometry,Sometimes,Severe wheezing

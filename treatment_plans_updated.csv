@@ -1,0 +1,11 @@
+disease,care_level,treatment_focus,supportive_care,tests_recommended,referral_needed,emergency_signs
+Asthma,Primary care,Airway management,Avoid triggers,Spirometry,Sometimes,Severe wheezing
+COVID-19,Primary care to hospital,Symptom relief,Rest;Hydration,PCR;Rapid antigen,Sometimes,Low oxygen
+Cholera,Emergency,Correct dehydration,ORS;IV fluids,Stool test,Yes,Shock;Severe dehydration
+Diabetes,Primary care,Glycemic control,Diet;Exercise,Blood glucose,No,Loss of consciousness
+Hypertension,Primary care,Blood pressure control,Diet;Exercise,BP monitoring,No,Chest pain
+Lassa Fever,Emergency / Specialist care,"Urgent isolation, supportive care, and protocol-based management",Hydration;Monitor vitals;Manage bleeding/shock;Infection prevention,Immediate clinical assessment;Lassa test per protocol;CBC;Liver/kidney function (where available),Yes (urgent referral required),Bleeding;Severe weakness;Breathing difficulty;Shock;Seizures
+Malaria,Primary care,Eliminate parasite and control fever,Hydration;Rest;Fever control,Malaria RDT;Blood smear,No,Confusion;Repeated vomiting
+Sickle Cell,Primary care to specialist follow-up,"Manage pain crises, prevent infections, and support long-term care",Hydration;Warmth;Pain support;Rest;Monitor for infection,Clinical review;Full blood count;Malaria test if fever;Oxygen saturation if severe,"Yes if severe pain, breathing difficulty, stroke signs, or frequent crises",Chest pain/breathlessness;Stroke signs;High fever;Severe anemia;Persistent pain
+Tuberculosis,Specialist care,Long-term infection control,Nutrition support,Sputum test;Chest X-ray,Yes,Hemoptysis
+Typhoid,Primary care to hospital,Control infection and prevent complications,Hydration;Nutrition support;Fever control,Clinical review;Typhoid test/culture if available;Assess dehydration,"Yes if severe symptoms, dehydration, persistent high fever, or complications",Confusion;Severe dehydration;Persistent vomiting;Blood in stool;Severe abdominal pain

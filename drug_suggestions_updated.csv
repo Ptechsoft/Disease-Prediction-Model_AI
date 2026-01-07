@@ -1,0 +1,11 @@
+disease,drug_classes,drug_examples,warnings
+Asthma,Bronchodilators,Short-acting beta agonists,Avoid triggers
+COVID-19,Supportive medications,Antipyretics;Oxygen,Avoid unnecessary antibiotics
+Cholera,Antibiotics,Macrolides;Tetracyclines,Rehydration is priority
+Diabetes,Antidiabetics,Insulin;Oral agents,Monitor glucose
+Hypertension,Antihypertensives,ACE inhibitors;CCBs,Lifestyle changes essential
+Lassa Fever,Protocol-based antivirals;Supportive medications,Ribavirin (protocol-based);IV fluids;Oxygen if needed,Urgent referral required;Infection control needed;Do not self-treat
+Malaria,Antimalarials,ACTs,Hospitalize severe cases
+Sickle Cell,Pain management (clinician-guided);Preventive/supportive therapies,Analgesics per clinician;Folic acid;Hydroxyurea (specialist-supervised),"Seek urgent care for chest pain, breathlessness, or stroke signs;Avoid unprescribed drugs"
+Tuberculosis,Anti-tubercular drugs,Rifampicin combinations,Strict adherence required
+Typhoid,Antibiotics (clinician-guided);Supportive therapies,Azithromycin;Ceftriaxone;Cefixime (examples vary by resistance patterns),Antibiotic choice must follow clinician guidance and local resistance;Avoid self-medication

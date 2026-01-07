@@ -1,0 +1,8 @@
+disease,drug_classes,drug_examples,warnings
+Malaria,Antimalarials,ACTs,Hospitalize severe cases
+Cholera,Antibiotics,Macrolides;Tetracyclines,Rehydration is priority
+Tuberculosis,Anti-tubercular drugs,Rifampicin combinations,Strict adherence required
+COVID-19,Supportive medications,Antipyretics;Oxygen,Avoid unnecessary antibiotics
+Hypertension,Antihypertensives,ACE inhibitors;CCBs,Lifestyle changes essential
+Diabetes Mellitus,Antidiabetics,Insulin;Oral agents,Monitor glucose
+Asthma,Bronchodilators,Short-acting beta agonists,Avoid triggers
