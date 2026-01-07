@@ -1,4 +1,8 @@
-# Ignore secrets files (keys, tokens)
+# Ignore secrets folder
 .secrets/
+
+# Ignore the secrets file
 secrets.toml
-*.env
+
+# Ignore .env file for environment variables
+.env
