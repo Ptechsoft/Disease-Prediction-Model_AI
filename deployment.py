@@ -188,7 +188,7 @@ client, router_model = get_openrouter_client_and_model()
 # =========================================================
 # UI HEADER
 # =========================================================
-st.title("🇳🇬 Nigeria Health Assistant (OpenRouter + ML Decision Support) BUILD BY NWADIGO PRAISE AKACHUKWU")
+st.title("🇳🇬 Nigeria Health Assistant (OpenRouter + ML Decision Support) BUILT BY NWADIGO PRAISE AKACHUKWU")
 st.info(
     "⚠️ This is a supportive screening tool and does NOT replace a medical professional. "
     "For diagnosis and prescriptions, consult a clinician."
